@@ -1,4 +1,4 @@
-package main.java;
+package main.java.list;
 
 public class Tarefa {
     private String descricao;
